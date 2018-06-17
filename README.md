@@ -1,0 +1,1 @@
+# jackson-annotations-include-non-empty-test
